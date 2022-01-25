@@ -5,6 +5,8 @@ package com.saucedemo.cucumber;
  * Project Name: SauceDemo-Cucumber-Week-21
  */
 
+import com.saucedemo.pages.CartPage;
+import com.saucedemo.pages.CheckoutPage;
 import com.saucedemo.pages.HomePage;
 import com.saucedemo.pages.InventoryPage;
 import cucumber.api.java.en.And;
@@ -30,37 +32,46 @@ public class SearchTestSteps {
     }
 
     @And("^I filter the products by Price \"([^\"]*)\"$")
-    public void iFilterTheProductsByPrice() {
-        new InventoryPage().productSortContainer();
-        new InventoryPage().sortProductHighToLowPrice();
+    public void iFilterTheProductsByPrice(String priceSort) {
+//        new InventoryPage().verifyHeadingText(expected);
+        new InventoryPage().productSortContainer(priceSort);
     }
 
-    @And("^I select cheapest & costliest products and add to basket$")
-    public void iSelectCheapestCostliestProductsAndAddToBasket() {
+    @And("^I select cheapest & costliest products and add to basket \"([^\"]*)\"$")
+    public void iSelectCheapestCostliestProductsAndAddToBasket(String selectProduct) {
+        new InventoryPage().selectCostliestProductAndAddToBasket(selectProduct);
+        new InventoryPage().selectCheapestProductAndAddToBasket(selectProduct);
     }
 
     @And("^I open shopping cart$")
     public void iOpenShoppingCart() {
+        new InventoryPage().clickShoppingCart();
     }
 
     @And("^I go to checkout$")
     public void iGoToCheckout() {
+        new CartPage().clickOnCheckoutTab();
     }
 
     @And("^I enter details firstname \"([^\"]*)\", lastName \"([^\"]*)\" and zipPostalCode \"([^\"]*)\"$")
-    public void iEnterDetailsFirstnameLastNameAndZipPostalCode(String arg0, String arg1, String arg2) {
-
+    public void iEnterDetailsFirstnameLastNameAndZipPostalCode(String firstName, String lastName, String postcode) {
+        new CheckoutPage().enterPersonalDetails(firstName, lastName, postcode);
     }
 
     @And("^I click on continue button$")
     public void iClickOnContinueButton() {
+        new CheckoutPage().clickOnContinueButton();
     }
 
     @And("^I click on finish button$")
     public void iClickOnFinishButton() {
+        new CheckoutPage().clickOnFinishButton();
     }
 
-    @Then("^I should be able to see message 'Thank you for your order'$")
-    public void iShouldBeAbleToSeeMessageThankYouForYourOrder() {
+    @Then("^I should be able to see message \"([^\"]*)\"$")
+    public void iShouldBeAbleToSeeMessageThankYouForYourOrder(String expectedMessage) {
+        new CheckoutPage().verifyMessage(expectedMessage);
     }
+
+
 }

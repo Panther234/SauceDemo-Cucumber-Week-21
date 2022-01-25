@@ -1,0 +1,119 @@
+2022-01-25 16:01:56 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 16:01:685 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 16:01:46 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 16:01:252 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 16:01:351 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 16:01:445 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 16:01:308 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 16:01:594 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 16:01:763 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 16:01:867 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 16:01:20 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 16:01:616 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 16:01:881 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 16:01:971 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 16:01:33 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 16:01:441 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 16:01:955 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 16:01:140 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 16:01:242 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 16:01:317 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 16:01:508 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 16:01:953 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 16:01:110 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 16:01:208 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 16:01:283 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 16:01:520 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 16:01:861 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 16:01:03 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 16:01:90 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 16:01:165 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 16:01:654 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 16:01:77 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 16:01:229 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 16:01:320 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 16:01:459 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 16:01:714 INFO  InventoryPage :32 - clicking on Product Sort Container field. 
+2022-01-25 16:01:810 INFO  InventoryPage :37 - clicking on Product Sort by High to Low. 
+2022-01-25 18:01:403 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 18:01:81 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 18:01:347 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 18:01:501 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 18:01:719 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 18:01:468 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 18:01:387 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 18:01:596 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 18:01:752 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 18:01:950 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 18:01:882 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 18:01:988 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 18:01:258 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 18:01:436 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 18:01:668 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 18:01:291 INFO  InventoryPage :62 - clicking on Product Sort Container field. 
+2022-01-25 18:01:344 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 18:01:353 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 18:01:558 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 18:01:690 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 18:01:911 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 18:01:383 INFO  InventoryPage :62 - clicking on Product Sort Container field. 
+2022-01-25 18:01:594 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 18:01:02 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 18:01:162 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 18:01:274 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 18:01:442 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 18:01:619 INFO  InventoryPage :62 - clicking on Product Sort Container field. 
+2022-01-25 18:01:988 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 18:01:794 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 18:01:64 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 18:01:210 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 18:01:434 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 18:01:778 INFO  InventoryPage :62 - clicking on Product Sort Container field. 
+2022-01-25 19:01:114 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 19:01:794 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 19:01:972 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 19:01:77 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 19:01:356 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 19:01:591 INFO  InventoryPage :63 - clicking on Product Sort Container field. 
+2022-01-25 19:01:872 INFO  InventoryPage :77 - Select Costliest product and add to basket. 'Price (high to low)'
+2022-01-25 19:01:938 INFO  InventoryPage :79 - Click Back to products button. 
+2022-01-25 19:01:09 INFO  InventoryPage :81 - Select text from dropdown. 'Price (high to low)'
+2022-01-25 19:01:253 INFO  InventoryPage :97 - Select cheapest product and add to basket. 'Price (high to low)'
+2022-01-25 19:01:314 INFO  InventoryPage :102 - clicking on Shopping cart button. 
+2022-01-25 19:01:379 INFO  CartPage :29 - clicking on Checkout button. 
+2022-01-25 19:01:641 INFO  CheckoutPage :52 - Send text to filed . 'BobAlexaAB1 2CD'
+2022-01-25 19:01:712 INFO  CheckoutPage :56 - clicking on continue button. 
+2022-01-25 19:01:783 INFO  CheckoutPage :61 - clicking on Finish button. 
+2022-01-25 19:01:823 INFO  CheckoutPage :67 - Verifying Message text. 'THANK YOU FOR YOUR ORDER'
+2022-01-25 19:01:411 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 19:01:709 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 19:01:856 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 19:01:959 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 19:01:102 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 19:01:438 INFO  InventoryPage :63 - clicking on Product Sort Container field. 
+2022-01-25 19:01:696 INFO  InventoryPage :77 - Select Costliest product and add to basket. 'Price (high to low)'
+2022-01-25 19:01:767 INFO  InventoryPage :79 - Click Back to products button. 
+2022-01-25 19:01:936 INFO  InventoryPage :81 - Select text from dropdown. 'Price (high to low)'
+2022-01-25 19:01:169 INFO  InventoryPage :97 - Select cheapest product and add to basket. 'Price (high to low)'
+2022-01-25 19:01:246 INFO  InventoryPage :102 - clicking on Shopping cart button. 
+2022-01-25 19:01:306 INFO  CartPage :29 - clicking on Checkout button. 
+2022-01-25 19:01:545 INFO  CheckoutPage :52 - Send text to filed . 'BobAlexaAB1 2CD'
+2022-01-25 19:01:620 INFO  CheckoutPage :56 - clicking on continue button. 
+2022-01-25 19:01:680 INFO  CheckoutPage :61 - clicking on Finish button. 
+2022-01-25 19:01:723 INFO  CheckoutPage :66 - Verifying message text. 'Thank you for your order'
+2022-01-25 19:01:188 INFO  ManageDriver :36 - launching chrome browser
+2022-01-25 19:01:427 INFO  HomePage :41 - verifying homepage url.
+2022-01-25 19:01:566 INFO  HomePage :47 - Send UserName to UserName field. 
+2022-01-25 19:01:659 INFO  HomePage :52 - Send Password to Password field. 
+2022-01-25 19:01:801 INFO  HomePage :57 - Clicking on Login button. 
+2022-01-25 19:01:27 INFO  InventoryPage :63 - clicking on Product Sort Container field. 
+2022-01-25 19:01:296 INFO  InventoryPage :77 - Select Costliest product and add to basket. 'Price (high to low)'
+2022-01-25 19:01:373 INFO  InventoryPage :79 - Click Back to products button. 
+2022-01-25 19:01:447 INFO  InventoryPage :81 - Select text from dropdown. 'Price (high to low)'
+2022-01-25 19:01:693 INFO  InventoryPage :97 - Select cheapest product and add to basket. 'Price (high to low)'
+2022-01-25 19:01:755 INFO  InventoryPage :102 - clicking on Shopping cart button. 
+2022-01-25 19:01:818 INFO  CartPage :29 - clicking on Checkout button. 
+2022-01-25 19:01:61 INFO  CheckoutPage :52 - Send text to filed . 'BobAlexaAB1 2CD'
+2022-01-25 19:01:134 INFO  CheckoutPage :56 - clicking on continue button. 
+2022-01-25 19:01:208 INFO  CheckoutPage :61 - clicking on Finish button. 
+2022-01-25 19:01:245 INFO  CheckoutPage :67 - Verifying message text. 'Thank you for your order'

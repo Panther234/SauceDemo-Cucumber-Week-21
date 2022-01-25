@@ -31,7 +31,7 @@ public class HomePage extends Utility {
     WebElement passwordField;
 
     @CacheLookup
-    @FindBy(xpath = "//input[@id='password']")
+    @FindBy(xpath = "//input[@id='login-button']")
     WebElement loginButton;
 
 
@@ -43,7 +43,7 @@ public class HomePage extends Utility {
     }
 
     public void userName() {
-        sendTextToElement(userNameField,"Satandard_user");
+        sendTextToElement(userNameField,"standard_user");
         log.info("Send UserName to UserName field. ");
     }
 

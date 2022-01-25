@@ -3,13 +3,13 @@ Feature: Search functionality
 
   Scenario: User navigates saucedemo page and complete the item purchas
     Given I am on saucedemo page
-    When I login with credential username "Satandard_user" and password "secret_sauce"
+    When I login with credential username "standard_user" and password "secret_sauce"
     And I click on Login button
-    And I filter the products by Price "high to low"
-    And I select cheapest & costliest products and add to basket
+    And I filter the products by Price "Price (high to low)"
+    And I select cheapest & costliest products and add to basket "Price (high to low)"
     And I open shopping cart
     And I go to checkout
-    And I enter details firstname "firstName", lastName "lastName" and zipPostalCode "Zip/PostalCode"
+    And I enter details firstname "Bob", lastName "Alexa" and zipPostalCode "AB1 2CD"
     And I click on continue button
     And I click on finish button
-    Then I should be able to see message 'Thank you for your order'
+    Then I should be able to see message "Thank you for your order"
